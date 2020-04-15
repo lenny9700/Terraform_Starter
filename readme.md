@@ -2,7 +2,7 @@
 
 This repository gives some simple examples about setting up an environment to start your first IAC (Infrastructure as Code) project.  
 
-![TerraformLogo](.images/terraform_Logo.png)
+![TerraformLogo](./images/terraform_Logo.png)
 
 ## 1. Let's prepare our working environment and the respective tools:
 
@@ -16,5 +16,5 @@ The following chapters will guide you through the process on how to get startet 
 
 ## Table of content
 
-*[A - VS Code preperation](./docs/vscode_prepare.md)
-*[B - Terraform installation](./docs/terraform_prepare.md)
+- [A - VS Code preperation](./docs/vscode_prepare.md)
+- [B - Terraform installation](./docs/terraform_prepare.md)
