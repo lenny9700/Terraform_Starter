@@ -1,1 +1,1 @@
-#### 1. Prepare and configure your local VS Code installation
+# 1. Prepare and configure your local VS Code installation
