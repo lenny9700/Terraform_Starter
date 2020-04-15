@@ -1,8 +1,8 @@
-# Terraform Starter Project
+# Terraform IAC Starter Project
 
 This repository gives some simple examples about setting up an environment to start your first IAC (Infrastructure as Code) project.  
 
-![TerraformLogo](https://github.com/lenny9700/Terraform_Starter/blob/master/images/terraform_Logo.png)
+![TerraformLogo](.images/terraform_Logo.png)
 
 #### 1. Let's prepare our working environment and the respective tools:
 - VS Code - You can download from [here](https://code.visualstudio.com/Download)
