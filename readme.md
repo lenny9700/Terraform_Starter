@@ -14,7 +14,10 @@ This repository gives some simple examples about setting up an environment to st
 
 The following chapters will guide you through the process on how to get startet in regards to the working environment and outline some example deployments. This will give you a basic undertanding of immutable infrastrucure in Azure using Terraform and GitHub.
 
-## Table of content
+## Details - Tools setup
 
 - [A - VS Code preperation](./docs/vscode_prepare.md)
 - [B - Terraform installation](./docs/terraform_prepare.md)
+
+## 2. Starting the first Terraform project
+
